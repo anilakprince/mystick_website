@@ -1,0 +1,115 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1400px;
+}
+.container-fluid{
+    margin-left: 50px;
+    
+    margin-right: 50px;
+   
+}
+a:link {
+    text-decoration: none;
+    transform: scale(1.1);
+    
+}
+a{
+    color: black;
+}
+/*button*/
+.shop-now{
+    width: 200px;
+    border-radius: 50px;
+}
+button:hover {
+    transform: scale(1.1);
+
+}
+/*image*/
+.cartimg{
+    height: 200px;
+    width: 200px;
+}
+.cartimg:hover {
+    transform: scale(1.05);
+}
+.smp{
+    height: 200px;
+}
+.prdimg{
+    height: 100px;
+    width: 100px;
+
+}
+
+.heading {
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headline {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+.title {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+.newsletter {
+
+    max-width: 800px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+.card{
+    border: none;
+}
+
+
+
+
+
+#colFormLabelSm {
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+footer {
+    height: 250px;
+    padding-top: 20px;
+}
+
+.platform {
+    padding-top: 20px;
+}
+
+.row-cart {
+    margin-top: 130px;
+}
+
+    
+  
+   
